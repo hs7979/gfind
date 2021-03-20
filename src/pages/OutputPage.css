@@ -72,7 +72,9 @@
   padding-left: 20px;
   padding-right: 3px;
 }
-
+.locationsvg>svg{
+  width: 25px;
+}
 .locationContainer {
   display: flex;
 }
