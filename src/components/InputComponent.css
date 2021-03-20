@@ -3,7 +3,8 @@
   align-items: center;
   justify-content: space-between;
   padding-left: 25%;
-  padding-right: 25%;
+  padding-right: 20%;
+  margin-right: 10px;
 }
 
 .inpContainer:first-child {
@@ -17,6 +18,8 @@
 
 .inpDropdown {
   padding: 100px;
+  margin-left: 10px;
+  margin-top:20px;
   border: 2px solid #0054ff;
   width: 40%;
 }
